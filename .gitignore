@@ -1,0 +1,21 @@
+# Build outputs
+bin/
+obj/
+
+# NuGet packages
+packages/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# JetBrains Rider
+.idea/
+
+# Runtime data (config, logs, user data)
+data/
+
+# Scratch files
+*.txt
